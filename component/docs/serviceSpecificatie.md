@@ -1,7 +1,6 @@
 ## Template Service Specificatie
 
 ### Service overzicht
-|                      |                                                              |
 |----------------------|--------------------------------------------------------------|
 | Servicenaam          |                                                              |
 | Serviceversie        |                                                              |

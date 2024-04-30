@@ -102,7 +102,7 @@ Deze service maakt gebruik van WS Security | Basic Authentication.
 
 ### Versiebeheer
 | Versie  | Datum      | Auteur               | Wijzigingen                           |
-|----------------------|--------------------------------------------------------------|
+|----------------------|----------------------|---------------------------------------|
 |         | dd-mm-jjjj |                      |                                       |
 |         |            |                      |                                       |
 |         |            |                      |                                       |

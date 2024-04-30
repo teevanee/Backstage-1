@@ -4,7 +4,7 @@ metadata:
   name: template
   # This is an extra long description with Markdown
   description: |
-    example API used to show features of the OpenAPI spec.
+    example template for creating a service specification.
     - First item
     - Second item
   annotations:

@@ -69,8 +69,7 @@ Deze service maakt gebruik van WS Security | Basic Authentication.
 |----------------|----------------|
 | Avg # Requests |                |
 | Max # Requests |                |
-| Avg Latency (sec) | <<Ingeval van Request Reply de roundtrip, in geval van |
-|                   | Pub Sub de vertraging van trigger tot observeerbaar gedrag>> |
+| Avg Latency (sec) | <<Ingeval van Request Reply de roundtrip, in geval van Pub Sub de vertraging van trigger tot observeerbaar gedrag>> |
 | Max Latency (sec) | |
 | Peaktime |    |
 | Avg Message size | |

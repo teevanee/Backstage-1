@@ -1,1 +1,8 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: template
+  description: A service specification template
+spec:
+  targets:
+    - ./apis/hello-world-api2.yaml

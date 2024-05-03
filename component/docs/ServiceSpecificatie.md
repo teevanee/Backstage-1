@@ -32,21 +32,20 @@ Functionaliteit van de operatie
 **Trigger**<br>
 Geef aan waardoor de service getriggert wordt, bijvoorbeeld *Ontvangst bericht*
 
-**Interface beschrijving**
+**Interface beschrijving**<br>
 [Interface](Berichtstructuur.drawio.xml)
 
 Figuur 1 Samenhang berichtelementen van Operatie 1, voor het XML bericht zie Appendix A
 
 **Interactie patroon**<br>
-Deze service werkt volgens het volgende patroon:
-
+Deze service werkt volgens het volgende patroon:<br>
 - In-Only (one-way)
 - In Out (Synchroon, Request-Response)
 - In Out (Asynchroon, Request-Response)
 - Out Only (Notification)
 - Out In (Solicit-Response)
 
-**Observeerbaar gedrag**
+**Observeerbaar gedrag**<br>
 [Gedrag](Gedrag.drawio.xml)
 
 *Basis flow (happy flow)*

@@ -26,17 +26,18 @@ Context van de service in woord en beeld
 ## Service operaties
 ### Operatie 1
 
-**Omschrijving**
+**Omschrijving**<br>
 Functionaliteit van de operatie
 
-**Trigger**
+**Trigger**<br>
+Geef aan waardoor de service getriggert wordt, bijvoorbeeld *Ontvangst bericht*
 
 **Interface beschrijving**
 [Interface](Berichtstructuur.drawio.xml)
 
 Figuur 1 Samenhang berichtelementen van Operatie 1, voor het XML bericht zie Appendix A
 
-**Interactie patroon**
+**Interactie patroon**<br>
 Deze service werkt volgens het volgende patroon:
 
 - In-Only (one-way)
@@ -54,13 +55,13 @@ Deze service werkt volgens het volgende patroon:
 3. De service levert het bericht af bij de afnemer [3]
 4. Service operatie is klaar
 
-*Alternatieve flows*
+*Alternatieve flows*<br>
 Geef aan of er andere scenario’s mogelijk zijn
 
-*Exceptie flows*
+*Exceptie flows*<br>
 Geef aan hoe de service met excepties omgaat
 
-**Security**
+**Security**<br>
 Geen additionele beveiligingsmaatregelen nodig buiten de standaard ESB maatregelen. OF
 Deze service maakt gebruik van WS Security | Basic Authentication.
 

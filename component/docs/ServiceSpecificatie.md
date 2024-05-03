@@ -21,7 +21,7 @@ Kort en bondige beschrijving van de service
 
 ### Servicecontext
 Context van de service in woord en beeld<br>
-[Context](ServiceScope.drawio.xml)
+[Context](ServiceScope.png)
 
 ## Service operaties
 ### Operatie 1
@@ -33,7 +33,7 @@ Functionaliteit van de operatie
 Geef aan waardoor de service getriggert wordt, bijvoorbeeld *Ontvangst bericht*
 
 **Interface beschrijving**<br>
-[Interface](Berichtstructuur.drawio.xml)
+[Interface](Berichtstructuur.png)
 
 Figuur 1 Samenhang berichtelementen van Operatie 1, voor het XML bericht zie Appendix A
 
@@ -46,7 +46,7 @@ Deze service werkt volgens het volgende patroon:<br>
 - Out In (Solicit-Response)
 
 **Observeerbaar gedrag**<br>
-[Gedrag](Gedrag.drawio.xml)
+[Gedrag](Gedrag.png)
 
 *Basis flow (happy flow)*
 1. <Aanbieder> publiceert het <berichtnaam> bericht

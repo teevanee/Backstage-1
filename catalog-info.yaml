@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Catalog
+kind: Component
 metadata:
   name: template
   description: A service specification template

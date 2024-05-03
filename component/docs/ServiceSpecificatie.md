@@ -14,7 +14,7 @@
 
 ### Roadmap
 Voor de service staan de volgende wijzigingen op de planning:
--
+- geen wijzigingen gepland
 
 ### Service Abstract
 Kort en bondige beschrijving van de service

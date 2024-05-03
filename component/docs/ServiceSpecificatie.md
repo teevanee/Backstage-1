@@ -20,7 +20,7 @@ Voor de service staan de volgende wijzigingen op de planning:
 Kort en bondige beschrijving van de service
 
 ### Servicecontext
-Context van de service in woord en beeld
+Context van de service in woord en beeld<br>
 [Context](ServiceScope.drawio.xml)
 
 ## Service operaties

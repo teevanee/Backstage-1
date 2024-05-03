@@ -3,10 +3,10 @@ kind: Component
 metadata:
   name: template
   description: A service specification template
-annotations:
+  annotations:
     backstage.io/techdocs-ref: dir:.
-links:
-  - url: https://github.com/swagger-api/swagger-petstore
-    title: GitHub Repo
-    icon: github
+  links:
+   - url: https://github.com/swagger-api/swagger-petstore
+     title: GitHub Repo
+     icon: github
   
